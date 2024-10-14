@@ -1,0 +1,5 @@
+# Build
+
+```shell
+./gradlew build
+```
